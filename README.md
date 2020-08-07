@@ -6,11 +6,6 @@
   JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Bootstrap | Git
 </p>
 
-<a
-    href="https://robertorodrigues.dev/"
-    alt="Roberto Rodrigues"
-    target="blank"
-  >
   </a>
   <a
     href="https://web.whatsapp.com/send?phone=+5522981123607" 
