@@ -7,18 +7,17 @@
 </p>
 
 <a
+    href="https://robertorodrigues.dev/"
+    alt="Roberto Rodrigues"
+    target="blank"
+  >
+  </a>
+  <a
     href="https://web.whatsapp.com/send?phone=+5522981123607" 
     alt="WhatsApp"
     target="blank"
   >
     <img src="https://img.shields.io/badge/-WhatsApp-28A745?style=flat&logo=WhatsApp&logoColor=white" />
-  </a>
-<a
-    href="https://robertorodrigues.dev/"
-    alt="Roberto Rodrigues"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-kalvaitir.com-28A745?style=flat&logo=microsoft-edge&logoColor=white" />
   </a>
   <a
     href="https://www.linkedin.com/in/robertorodriguesazevedo" 
