@@ -5,8 +5,7 @@
 <p align="center">
   JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Bootstrap | Git
 </p>
-
-  </a>
+<p align="center">
   <a
     href="https://web.whatsapp.com/send?phone=+5522981123607" 
     alt="WhatsApp"
@@ -28,6 +27,9 @@
   >
     <img src="https://img.shields.io/badge/-GitHub-28A745?style=flat&logo=Github&logoColor=white" />
   </a>
+</p>
+  </a>
+  
 <p align="center">
   📌 Living in <b>Quissamã</b>, <b>Rio de Janeiro</b>, <b>Brazil</b> &nbsp; 💼 Full Stack Developer at <b>Tecnosol Comércio</b>
 </p>
