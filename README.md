@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center">
-  JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Bootstrap | Git
+  JavaScript | TypeScript | Node.js | ReactJS | React Native | HTML | CSS | Bootstrap | Git
 </p>
 <p align="center">
   <a
