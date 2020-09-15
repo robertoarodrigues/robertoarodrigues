@@ -1,12 +1,14 @@
 # Roberto Rodrigues
 <h4 align="center">
-  ### Hi there 👋
+  Hi there 👋
 </h4>
 
 <p align="center">
   JavaScript | TypeScript | Node.js | ReactJS | React Native | HTML | CSS | Bootstrap | Git
 </p>
 <p align="center">
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertorodriguesazevedo/)](https://www.linkedin.com/in/robertorodriguesazevedo/)
+  
   <a
     href="https://web.whatsapp.com/send?phone=+5522981123607" 
     alt="WhatsApp"
