@@ -19,14 +19,14 @@
     alt="LinkedIn"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-LinkedIn-28A745?style=flat&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-28A745?style=flat&logo=Linkedin&logoColor=blue" />
   </a>
   <a
     href="https://github.com/robertoarodrigues"
     alt="GitHub"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-GitHub-28A745?style=flat&logo=Github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-28A745?style=flat&logo=Github&logoColor=black" />
   </a>
 </p>
   </a>
