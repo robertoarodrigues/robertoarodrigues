@@ -7,10 +7,6 @@
   JavaScript | TypeScript | Node.js | ReactJS | React Native | HTML | CSS | Bootstrap | Git
 </p>
 <p align="center">
-  <!--
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertorodriguesazevedo/)]   (https://www.linkedin.com/in/robertorodriguesazevedo/)
-  -->
-  [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the- badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/robertorodriguesazevedo/)](https://www.linkedin.com/in/robertorodriguesazevedo/)
   
   <a
     href="https://web.whatsapp.com/send?phone=+5522981123607" 
