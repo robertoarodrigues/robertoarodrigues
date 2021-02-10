@@ -32,7 +32,7 @@
   </a>
   
 <p align="center">
-  📌 Living in <b>Quissamã</b>, <b>Rio de Janeiro</b>, <b>Brazil</b> &nbsp; 💼 Full Stack Developer at <b>Tecnosol Comércio</b>
+  📌 Living in <b>Quissamã</b>, <b>Rio de Janeiro</b>, <b>Brazil</b> &nbsp; 💼 Full Stack Developer at <b>Trindade Tecnologia</b>
 </p>
 <p align="center">
   📚 Graduate in <b>Analysis and Systems Development</b> &nbsp;
